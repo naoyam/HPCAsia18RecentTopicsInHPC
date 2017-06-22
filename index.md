@@ -21,11 +21,11 @@ TBA
 
 ## Registration
 
-No registration is required.
+No registration is required. 
 
 ## Contact
 
-Naoya Maruyama (maruyama3@llnl.gov)
+[Naoya Maruyama](https://people.llnl.gov/maruyama3)
 
 
   
