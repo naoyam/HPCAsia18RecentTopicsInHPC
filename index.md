@@ -21,9 +21,9 @@ Please submit the title and abstract from the below Google form by August 31.
 [Submission form](https://goo.gl/forms/UfZnnSlERccVPhk83)
 
 We solicit talks by the PC members of HPCAsia'18. Each talk is likely
-to have about 15 minutes at the workshop. Subbmissions are accepted on
+to have about 15 minutes at the workshop. Submissions are accepted on
 a first-come, first-served basis without reviews. No proceedings will
-be published. 
+be published.
 
 ## Program
 
