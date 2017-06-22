@@ -18,7 +18,7 @@ The workshop is also open to anyone interested.
 
 Please submit the title and abstract from the below Google form:
 
-https://goo.gl/forms/UfZnnSlERccVPhk83
+[https://goo.gl/forms/UfZnnSlERccVPhk83]
 
 Note that talks are limited to the PC members of HPCAsia'18. 
 
