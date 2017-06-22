@@ -1,0 +1,32 @@
+# Workshop: Recent Topics in High Performance Computing
+
+Date: September 21, 1pm-5pm
+Venue: 1-5 Kanda-Surugadai, Chiyoda-ku, Tokyo 101-8307, Japan
+
+This workshop aims to give the HPCAsia18 program committee
+members an opportunity to discuss their research and to foster
+development of a strong research community among Asia/Pacific
+regions. Every PC member who attends the face-to-face meeting on
+September 22 is invited to attend and give a short talk at this
+workshop. Note that giving a talk is optional; it is still highly
+encouraged to join even if you do not wish to give a talk. If you wish
+to give a talk, please submit the title and abstract as instructed
+below.
+
+The workshop is also open to anyone interested. 
+
+## Program
+
+TBA
+
+## Registration
+
+No registration is required.
+
+## Contact
+
+Naoya Maruyama (maruyama3@llnl.gov)
+
+
+  
+  
