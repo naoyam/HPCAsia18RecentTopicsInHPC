@@ -14,13 +14,13 @@ title and abstract as instructed below.
 
 The workshop is also open to anyone interested. 
 
-## Talk application
+## Talk submission
 
-Please submit the title and abstract from the below Google form:
+Please submit the title and abstract from the below Google form by August 31.
 
-https://goo.gl/forms/UfZnnSlERccVPhk83
+[Submission form](https://goo.gl/forms/UfZnnSlERccVPhk83)
 
-Note that talks are limited to the PC members of HPCAsia'18. 
+Note that talk speakers are limited to the PC members of HPCAsia'18. 
 
 ## Program
 
