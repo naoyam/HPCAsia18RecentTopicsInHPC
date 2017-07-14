@@ -25,9 +25,14 @@ to have about 15 minutes at the workshop. Submissions are accepted on
 a first-come, first-served basis without reviews. No proceedings will
 be published.
 
-## Program
+## Program (Tentative)
 
-TBA
+| 1:00 - 1:15 | Introduction |
+| 1:15 - 2:30 | Session 1 |
+| 2:30 - 2:45 | Break |
+| 2:45 - 4:00 | Session 2 |
+| 4:00 - 4:15 | Break |
+| 4:15 - 5:00 | Session 3 |
 
 ## Registration
 
