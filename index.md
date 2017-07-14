@@ -27,13 +27,14 @@ be published.
 
 ## Program (Tentative)
 
-|         ---:|              |
+|             |              |
+|         ---:| :---         |
 | 1:00 - 1:15 | Introduction |
 | 1:15 - 2:30 | Session 1    |
-| 2:30 - 2:45 | Break |
-| 2:45 - 4:00 | Session 2 |
-| 4:00 - 4:15 | Break |
-| 4:15 - 5:00 | Session 3 |
+| 2:30 - 2:45 | Break        |
+| 2:45 - 4:00 | Session 2    |
+| 4:00 - 4:15 | Break        |
+| 4:15 - 5:00 | Session 3    |
 
 ## Registration
 
