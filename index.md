@@ -27,8 +27,6 @@ be published.
 
 ## Program (Tentative)
 
-|             |              |
-|         ---:| :---         |
 | 1:00 - 1:15 | Introduction |
 | 1:15 - 2:30 | Session 1    |
 | 2:30 - 2:45 | Break        |
