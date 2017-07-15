@@ -40,7 +40,8 @@ No registration is required. Attending this workshop is for free.
 
 ## Contact
 
-[Naoya Maruyama](https://people.llnl.gov/maruyama3)
+- [Osamu Tatebe](http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/)
+- [Naoya Maruyama](https://people.llnl.gov/maruyama3)
 
 
   
