@@ -1,4 +1,4 @@
-# Workshop: Recent Topics in High Performance Computing
+# Workshop on Recent Topics in High Performance Computing
 
 Date: September 21, 2017. 1pm-5pm  
 Venue: Kagaku-Kaikan, 1-5 Kanda-Surugadai, Chiyoda-ku, Tokyo 101-8307, Japan
