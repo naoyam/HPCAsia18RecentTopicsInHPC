@@ -15,7 +15,7 @@ The workshop is also open to anyone interested.
 
 ## Talk submission
 
-Please submit the title and abstract from the below Google form by September 7.
+Please submit the title and abstract from the below Google form by September 15.
 
 [Submission form](https://goo.gl/forms/UfZnnSlERccVPhk83)
 
