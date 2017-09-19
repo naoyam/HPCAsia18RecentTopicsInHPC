@@ -24,7 +24,7 @@ to have about 15 minutes at the workshop. Submissions are accepted on
 a first-come, first-served basis without reviews. No proceedings will
 be published.
 
-## Program (Tentative)
+## Program
 
 | 1:00 - 1:15 | Introduction |
 | 1:15 - 2:15 | Session 1    |
