@@ -36,10 +36,38 @@ be published.
 ### Session 1
 
 **Miquel Pericas (Chalmers University of Technology)**, *Collaborative HW-SW schemes for scalable resource management*
+
 Abstract: 
  Scalable computing requires efficient and low-overhead management of parallelism and communication. To handle the diversity of modern hardware platforms, management schemes need to be dynamic and adaptive.  A common approach is to interface the hardware and software via a runtime system that takes care of task scheduling and mapping. However, current applications and platforms do not exchange enough information to optimize parallelism and communication.
  To address this problem we are working on collaborative software and hardware solutions.  At the software level, we have developed the XiTAO runtime system that generalizes the concept of task in two ways: first, it adds resource usage annotations, and second, it provides task moldability. Generalized tasks are in shape similar to nested parallel computations. The XiTAO runtime abstracts the hardware into elastic resources partitions called elastic places, onto which the generalized tasks are executed.  At the hardware level, we are researching adaptive cache hierarchies that reconfigure themselves to match the resources required by the running applications.
  In this talk I will cover the XiTAO runtime, our research into adaptive cache hierarchies, and current research to use the XiTAO runtime as a dynamic manager for statically scheduled parallel computations within a single application.
+
+**Marc Baboulin	(University of Paris-Sud)**, *Using randomization in sparse linear systems*
+
+Abstract: Random Butterfly Transformations (RBT) have been successfully applied to accelerate the solution of dense linear systems by preventing the communication overhead due to pivoting. In this talk, we present experiments on direct sparse factorizations where RBT is applied with the SuperLU sparse direct solver. In particular we explain how RBT can be combined with sparsity-preserving strategies. Then we propose to integrate RBT in the iterative solver pARMS to solve more efficiently the last Schur complement system in the application of the recursive multilevel process, resulting in an improvement of convergence and accuracy.
+
+**Naoya Maruyama (LLNL)**, *High Performance, High Productivity Programming through Domain Specialization*
+
+Abstract: This talk will present an overview of some of our past research for achieving high performance and high productivity at heterogeneous large-scale systems. It is generally considered that performance and productivity are conflicting trade-off in HPC applications, especially when using accelerators such as GPUs. To address this challenge, we have been working on domain-specific programming frameworks that significantly ease the problem of achieving both performance and productivity. In this talk, we will show that by designing frameworks customized for specific computation patterns it is possible to automate most of the manual programming burden for parallelization and optimization.
+
+### Session 2
+
+**Hiroshi Inoue	(IBM Research - Tokyo)**, *Bring Apache Spark Closer to Accelerators*
+
+Abstract: Apache Spark has been gaining popularity for processing a large amount of data on distributed clusters. To accelerate analytics and machine learning tasks for such big dataset running on Spark, we like to exploit hardware accelerators, such as GPU and SIMD instructions. Since Spark is implemented with Scala and running on Java virtual machines, which deeply virtualize underlying hardware, it is challenging to accelerate Spark applications running on JVM using accelerators. In this talk, we discuss how we conduct end-to-end software stack optimization by enhancing both Spark runtime and Java just-in-time compiler.
+
+**IHsin Chung (IBM Research)**, *Towards a Composable Computer System*
+
+Abstract: The recent advancement of technology in both software and hardware enables us to revisit the concept of the composable architecture in the system design. The composable system design provides flexibility to serve a variety of workloads. The system offers a dynamic co-design platform that allows experiments and measurements in a controlled environment. The goal is to speed up the system design and software evolution by adopting available technology with the understanding of application characteristics. I will discuss the experience we learned from the prototype system cluster we built.
+
+**Hideyuki Kawashima (University of Tsukuba)**, *Accelerating Read Atomic Multi-partition Transaction with Remote Direct Memory Access*
+
+Abstract: Many applications these days require data processing that is both efficient and reliable. Distributed databases are one way to meet these requirements, but must be updated using distributed transactions. To manage foreign key constraints, secondary indices, and materialized views in distributed environments, read atomic multi-partition (RAMP) transactions demonstrate high efficiency. RAMP transactions achieved high performance distributed transaction processing by relaxing the isolation level. However, the use of fast interconnect to accelerate performance has not yet been considered. This paper proposes the acceleration of RAMP transactions by exploiting remote
+direct memory access (RDMA) on the InfiniBand interconnect. We first present GET+ and PUT+ operations that accelerate the RAMP transaction by exploiting RDMA write operations. We then present the GET* operation, which further accelerates GET+ operations exploiting RDMA read operations. To evaluate
+the proposed methods, we implemented a prototype distributed in-memory key-value store in C/C++. The results of the experiments show that compared with RAMP transactions on IP over InfiniBand, GET* and PUT+ achieve a 2.67x performance improvement on the Yahoo! Cloud Serving Benchmark.
+
+
+### Session 3
 
 ## Registration
 
