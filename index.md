@@ -27,11 +27,17 @@ be published.
 ## Program (Tentative)
 
 | 1:00 - 1:15 | Introduction |
-| 1:15 - 2:30 | Session 1    |
-| 2:30 - 2:45 | Break        |
-| 2:45 - 4:00 | Session 2    |
-| 4:00 - 4:15 | Break        |
-| 4:15 - 5:00 | Session 3    |
+| 1:15 - 2:15 | Session 1    |
+| 2:15 - 2:30 | Break        |
+| 2:30 - 3:30 | Session 2    |
+| 3:30 - 3:45 | Break        |
+| 3:45 - 4:45 | Session 3    |
+
+### Session 1
+Miquel Pericas (Chalmers University of Technology), *Collaborative HW-SW schemes for scalable resource management*
+> Scalable computing requires efficient and low-overhead management of parallelism and communication. To handle the diversity of modern hardware platforms, management schemes need to be dynamic and adaptive.  A common approach is to interface the hardware and software via a runtime system that takes care of task scheduling and mapping. However, current applications and platforms do not exchange enough information to optimize parallelism and communication.
+> To address this problem we are working on collaborative software and hardware solutions.  At the software level, we have developed the XiTAO runtime system that generalizes the concept of task in two ways: first, it adds resource usage annotations, and second, it provides task moldability. Generalized tasks are in shape similar to nested parallel computations. The XiTAO runtime abstracts the hardware into elastic resources partitions called elastic places, onto which the generalized tasks are executed.  At the hardware level, we are researching adaptive cache hierarchies that reconfigure themselves to match the resources required by the running applications.
+> In this talk I will cover the XiTAO runtime, our research into adaptive cache hierarchies, and current research to use the XiTAO runtime as a dynamic manager for statically scheduled parallel computations within a single application.
 
 ## Registration
 
