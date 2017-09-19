@@ -66,8 +66,19 @@ Abstract: Many applications these days require data processing that is both effi
 direct memory access (RDMA) on the InfiniBand interconnect. We first present GET+ and PUT+ operations that accelerate the RAMP transaction by exploiting RDMA write operations. We then present the GET* operation, which further accelerates GET+ operations exploiting RDMA read operations. To evaluate
 the proposed methods, we implemented a prototype distributed in-memory key-value store in C/C++. The results of the experiments show that compared with RAMP transactions on IP over InfiniBand, GET* and PUT+ achieve a 2.67x performance improvement on the Yahoo! Cloud Serving Benchmark.
 
-
 ### Session 3
+
+**Osamu Tatebe	(University of Tsukuba)**, *Gfarm/BB: Gfarm file system for burst buffers*
+
+Abstract: Burst buffer gradually prevails in high-end super computers to fill a gap among CPU performance and I/O performance.  This talk introduces the design and implementation of Gfarm/BB that is a temporal distributed file system for node-local burst buffers.
+
+**Takatsugu Ono (Kyushu University)**, *Developing an Interconnection Network Simulator for Energy Efficient Large Scale Networks*
+
+Abstract: Reducing the power consumption of the interconnection network in the HPC system is an important issue. As a method of reducing the power consumption of the interconnection network, there is a method of transitioning to the low power mode during the period when the packet is not processed. In this talk, we present Trace RP, which is an interconnection simulator supporting low power mode.
+
+**Takeshi Iwashita (Hokkaido University)**, *Algebraic Subspace Correction Method for a Series of Linear Systems*
+
+Abstract: In this talk, an algebraic subspace correction method is introduced. The method focuses on solving a series of linear systems with an identical or similar coefficient matrix. The linear systems are sequentially processed due to the right hand side vector depending on the solution vector of the prior linear system. For the problem, we investigate the subspace correction method and its implicit version which accelerate the convergence of an iterative solver. The key to the correction method is how effective mapping operators are constructed. When the range of the mapping operator includes slow convergent error vectors, the correction method works well. We have developed a new mapping operator construction method for the problem above in which the information obtained in the prior solution steps is used. The subspace including slow convergent vectors is automatically identified. Numerical tests on electromagnetic field analyses confirm that the correction method with the generated mapping operator can accelerate the convergence of the iterative solver.
 
 ## Registration
 
