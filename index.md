@@ -31,7 +31,7 @@ be published.
 | 2:15 - 2:30 | Break        |
 | 2:30 - 3:30 | Session 2    |
 | 3:30 - 3:45 | Break        |
-| 3:45 - 4:45 | Session 3    |
+| 3:45 - 5:00 | Session 3    |
 
 ### Session 1
 
@@ -71,6 +71,10 @@ the proposed methods, we implemented a prototype distributed in-memory key-value
 **Osamu Tatebe	(University of Tsukuba)**, *Gfarm/BB: Gfarm file system for burst buffers*
 
 Abstract: Burst buffer gradually prevails in high-end super computers to fill a gap among CPU performance and I/O performance.  This talk introduces the design and implementation of Gfarm/BB that is a temporal distributed file system for node-local burst buffers.
+
+**Jianwen Wei	(Shanghai Jiao Tong University)**, *Precise Diagnosis of Leukemia Subtypes via Deep Learning*
+
+Abstract: Leukemia is a highly-threatening cancer of which children accounting for 40% of ~50000 diagnosed patients in China. Precise diagnose of leukemia subtypes is the first step to a successful treatment. However, traditional image-based approach is labor-intensive, requiring a lot of training yet resulting in limited accuracy due to inherent low coverage. The gene-based diagnose approach, which is popular in the research field, still needs throughout verification. Together with our collaborators in Shanghai Ruijin Hospital, we propose a deeplearning-based platform to combine both the image-based and gene-based approaches. Like other DL applications, this platform aims to autotune its parameters to achieve best accuracy.
 
 **Takatsugu Ono (Kyushu University)**, *Developing an Interconnection Network Simulator for Energy Efficient Large Scale Networks*
 
